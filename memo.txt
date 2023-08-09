@@ -1,0 +1,19 @@
+오토인코더에서 데이터 증강의 특수한 경우를 생성할 수 있을까?
+
+왜 2차원으로 ... 1차원은 왜 안할까?
+
+데이터 증강으로 생성하는 방식의 데이터를 다시 오토 인코더의
+입력으로 이용?
+
+11/22 세미나
+
+위성 영상 분석
+
+viola johns face detection
+integral image
+adaboost
+cascading
+
+hog detector
+
+dpm

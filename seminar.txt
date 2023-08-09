@@ -1,0 +1,6 @@
+selective search
+
+feature
+
+출력 되는 그림이 한칸 옆에 나와도 같은 걸로 해되 좋지 않을까?
+

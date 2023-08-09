@@ -1,0 +1,59 @@
+ai: 기호, 베이지안, 논리, 연결주의
+  기계학습:
+    지도:(z, y)
+      regression, svm, tree, ensenble...
+    비지도:(z)
+      clustering, pca
+    강화:
+      dynamic programming
+
+    dnn:
+      fcn, cnn, rnn
+      autoencoder, vae, gan
+
+
+data:
+  질:
+  양:
+    n=100 sparse, dense
+    N=5000
+
+저차원으로 이동할 때 시그모이드를 이용하면 정말 1:1인가?
+
+확률 분포 = 모집단 전체 (관심 대상의 집합)
+  이항:
+    동전 던지기
+  정규:
+    호수 안의 물고기의 크기
+
+
+variational inference: 조건부 확률을 그냥 확률로
+-> vae
+
+
+주요한 데이터가 있다?
+
+
+데이터를 생성하는 방법이 지금은 두 가지
+
+
+
+갠은 네쉬 균형을 이용한 것
+
+
+지금의 모습
+universal machine(computer), personalization(ihone), universal software(dnn)
+
+새로운 세상에서 내 사고를 바꿀 수 있을까?
+
+
+infrastructure, system, solution, application
+
+
+간은 학습이 잘 안됨.
+다음 주는 마지막 주.
+
+
+
+작동, 구조, 뇌파? 다른 
+것, 팔 드는 것, 꿈
